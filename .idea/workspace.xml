@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b5155fc-1206-41a9-b578-b8bd7c88b64e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/myChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data.tsv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/app/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/app/myChart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/app/pages/barChart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/app/pages/lineChart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/chartjs-plugin-annotation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/chartjs-plugin-annotation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/config.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/box.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/bubble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/combo-bar-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/horizontal-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/labels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/line-logarithmic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/line-time-scale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/pie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/polar-area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/radar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/samples/updates.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/annotation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/types/box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/bower_components/chartjs-plugin-annotation/src/types/line.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/data.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/data.tsv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/googleChart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/jquery-1.10.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/jquery.flot.orderBars" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/ecstatic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/he" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/http-server" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/mkdirp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/.bin/opener" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/angular/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/dist/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/dist/async.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/async/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/.scss-lint.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/.htmllintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/change-version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/gcp-key.json.enc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/lint-vars.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/postcss.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/sauce_browsers.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/stamp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/uglifyjs.config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/build/upload-preview.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/dist/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/src/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/unit/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/js/tests/vendor/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_button-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_custom-forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/bootstrap-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_navbar-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_transition.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/mixins/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_borders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_screenreaders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/bootstrap/scss/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/MAINTAINING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/book.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/Chart.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/Chart.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/Chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/Chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/cartesian/category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/cartesian/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/cartesian/linear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/cartesian/logarithmic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/cartesian/time.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/labelling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/radial/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/radial/linear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/axes/styling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/bubble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/doughnut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/mixed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/polar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/radar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/charts/scatter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/animations.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/legend.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/title.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/configuration/tooltip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/contributing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/developers/updates.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/device-pixel-ratio.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/fonts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/interactions/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/interactions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/interactions/modes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/general/responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/getting-started/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/getting-started/installation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/getting-started/integration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/getting-started/usage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-fontsettings/website.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-ga/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-highlight/ebook.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-highlight/website.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-search-plus/search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-search-plus/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-sharing/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/gitbook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/images/apple-touch-icon-precomposed-152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/gitbook/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/notes/comparison.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/notes/extensions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/notes/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/notes/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/search_plus_index.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/dist/docs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/SUMMARY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/cartesian/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/cartesian/category.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/cartesian/linear.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/cartesian/logarithmic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/cartesian/time.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/labelling.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/radial/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/radial/linear.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/axes/styling.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/area.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/bar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/bubble.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/doughnut.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/line.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/mixed.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/polar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/radar.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/charts/scatter.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/animations.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/elements.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/layout.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/legend.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/configuration/tooltip.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/api.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/axes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/charts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/plugins.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/developers/updates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/colors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/device-pixel-ratio.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/fonts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/interactions/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/interactions/events.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/interactions/modes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/options.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/general/responsive.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/getting-started/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/getting-started/installation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/getting-started/integration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/getting-started/usage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/notes/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/notes/comparison.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/notes/extensions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/notes/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/docs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/advanced/data-labelling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/advanced/progress-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/area/analyser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/area/line-boundaries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/area/line-datasets.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/area/line-stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/area/radar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bar/horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bar/multi-axis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bar/stacked-group.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bar/stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bar/vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/bubble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/combo-bar-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/doughnut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/interpolation-modes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/line-styles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/multi-axis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/point-sizes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/point-styles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/skip-points.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/line/stepped.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/pie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/polar-area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/radar-skip-points.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/radar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/scatter/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/charts/scatter/multi-axis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/legend/point-style.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/legend/positioning.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/samples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/filtering-labels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/gridlines-display.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/gridlines-style.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/linear/min-max-suggested.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/linear/min-max.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/linear/step-size.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/logarithmic/line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/logarithmic/scatter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/multiline-labels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/non-numeric-y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/time/combo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/time/financial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/time/line-point-data.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scales/time/line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/scriptable/bubble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/border.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/callbacks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/custom-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/custom-pie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/custom-points.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/interactions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/tooltips/positioning.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/samples/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/scripts/deploy.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/scripts/release.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Doughnut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Line.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.PolarArea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Radar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/charts/Chart.Scatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.doughnut.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.line.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.polarArea.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.radar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/controllers/controller.scatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.datasetController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.interaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.layoutService.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.scaleService.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.ticks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/core/core.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/elements/element.arc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/elements/element.line.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/elements/element.point.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/elements/element.rectangle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/elements/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/helpers/helpers.canvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/helpers/helpers.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/helpers/helpers.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/helpers/helpers.options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/helpers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/platforms/platform.basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/platforms/platform.dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/platforms/platform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/plugins/plugin.filler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/plugins/plugin.legend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/plugins/plugin.title.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.category.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.linear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.linearbase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.logarithmic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.radialLinear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/src/scales/scale.time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/core.scale/label-offset-vertical-axes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/core.scale/label-offset-vertical-axes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline-span.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline-span.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin-spline.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin-spline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/jasmine.context.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/jasmine.index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/jasmine.matchers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/jasmine.utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.bar.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.bubble.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.doughnut.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.line.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.polarArea.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/controller.radar.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.controller.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.datasetController.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.element.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.helpers.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.interaction.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.layoutService.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.plugin.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.scale.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.scaleService.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/core.tooltip.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/element.arc.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/element.line.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/element.point.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/element.rectangle.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/global.defaults.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/global.deprecations.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/helpers.canvas.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/helpers.core.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/helpers.easing.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/helpers.options.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/platform.dom.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/plugin.filler.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/plugin.legend.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/plugin.title.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/scale.category.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/scale.linear.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/scale.logarithmic.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/scale.radialLinear.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chart.js/test/specs/scale.time.tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/color-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color-string/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/chartjs-color/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/conversions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-convert/test/speed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/color-name/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/ReadMe.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/examples/normal-usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/examples/safe-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/colors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/custom/trap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/custom/zalgo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/extendStringPrototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/maps/america.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/maps/rainbow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/maps/random.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/maps/zebra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/lib/system/supports-colors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/safe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/screenshots/colors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/tests/basic-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/tests/safe-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/colors/themes/generic-logging.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/lib/corser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/corser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/src/inspector-log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/0e436f3bc14dc8ccedf3644f11d21bb2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/1089e711f18d2cef72071d9d94b2113a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/246c1d9b9690a1b25a37590e214926eb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/28067239ca9b9a420d75718dc60e9794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/370f05d87a90d99a9391d2c4707dabe7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/3d0091927809edba2172020b3e0eb278.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/43ba11797e49f169b6e0ed203795ffc0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/440e615b5769bc16d3a797b07369937b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/45d156bbbe05e26013a2478828a2300f.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/47f92d828cfbd2b8e98f91d65290178c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/49eb33cd8cebe3f4ac8c85d10406aa0d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/4b420cf944a9102eadb9161a78cbe6d4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/4d3a90c70f7e04637f342841413f105d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/4e4208b377ac94a853b58ea95cf76678.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/72781a4abb14bb9fa12ab44adc03ae95.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/7dca6987350b11397f7b183230cd8ed3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/8194b7c452bb548b092aced3e5cb504d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/85d3709905e273444b70ec852b4995af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/86f120f0940c97d5a9b83c119e07fd1b.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/90450770f19a6254f215aa67f3fd17ba.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/90ba340dcd6d2d939145d1d5dd4f00b3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/95b26ca55299b8f0e6578dba3580cdd8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/a2f2985a4ea3dffac854649c4653dd80.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/a708dc3afadc5f62acbddbac4ebe3b22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/a860bba1a65f01c6497ea05b245f3478.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/aa457714b2f466ea5ef63eab9399b3ed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/ac19822dc89661f902371db3d0a0c5e3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/b5225977cfe01259785efd49292dac24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/b82f09ad43968671cbe2e66ae7eec462.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/b99369b1a3b1c739915c627032b30676.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/ba58ee6f0559fcdd43eb68812779a128.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/bc92c2aaf165b06a2777c3c88f434a9d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/c5599d16a8ee1389aae7c068c591c2a5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/c5cd7f005408251e64df50ca2012ff6e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/cc0c6b1e00994792240a528b9bac4eeb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/d83cb5b33e0221913dd5ce977de3cdc2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/de480016f80f842ede70e908d8d2914c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/e4bc2f05dd42972945ce4bbe8df848f6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.nyc_output/ef3194cd8a43a90bd63564bd70f59d3c.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/CONTRIBUTORS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic/etag.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic/opts.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic/showdir.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/ecstatic/status-handlers.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/lib/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/sort-arrow-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov-report/sorter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/coverage/lcov.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/cli.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/public/beep/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/public/hello.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/public/subdir/world.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/public/turtle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/example/union.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/aliases.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/defaults.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/etag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/opts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/icons.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/perms-to-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/size-to-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/sort-files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/show-dir/styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/lib/ecstatic/status-handlers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/tools/build-icons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ecstatic/tools/get-icons.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/eventemitter3/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/eventemitter3/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/eventemitter3/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/eventemitter3/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/LICENSE-MIT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/bin/he" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/man/he.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/he/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy/passes/web-outgoing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/lib/http-proxy/passes/ws-incoming.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-proxy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/bin/http-server" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/lib/http-server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/public/img/turtle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/screenshots/directory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/screenshots/public.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/screenshots/start.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/test/fixtures/root/canYouSeeMe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/test/fixtures/root/file" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/http-server/test/http-server-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/dist/jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/.eslintrc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/DOMEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/nodeName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/readyException.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/css/var/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event/focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/event/trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/fnToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/getProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/jquery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/all_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/kv_short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/num.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/stop_early.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/unknown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/bin/cmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/bin/usage.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/examples/pow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/chmod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/clobber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/mkdirp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/opts_fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/opts_fs_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/perm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/perm_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/rel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/return_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/umask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/mkdirp/test/umask_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/ender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-dz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-kw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-ly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-ma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-sa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar-tn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/bo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/cv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/de-at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/dv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/en-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/en-nz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/es-do.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/fy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/gd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/gom-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/hy-am.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/jv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/kk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/kn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/lo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/mi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/mr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ms-my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ne.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/nl-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/nn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/pa-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/se.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sr-cyrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/te.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tl-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tlh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tzl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tzm-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/tzm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/ur.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/uz-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/uz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/x-pseudo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/yo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/zh-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/locale/zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/min/locales.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/min/locales.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/min/moment-with-locales.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/min/moment-with-locales.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/min/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/moment.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/check-overflow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/date-from-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-anything.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-string-and-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-string-and-format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/from-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/local.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/parsing-flags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/utc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/create/valid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/abs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/add-subtract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/as.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/constructor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/duration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/get.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/humanize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/iso-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/duration/valid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/format/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/base-config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/constructor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/formats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/invalid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/locale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/locales.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/ordinal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/pre-post-format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/relative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/locale/set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/add-subtract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/clone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/compare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/constructor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/creation-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/diff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/from.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/get-set.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/locale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/min-max.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/now.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/start-end-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/to-type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/to.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/moment/valid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/parse/regex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/parse/token.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/aliases.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/day-of-month.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/day-of-week.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/day-of-year.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/hour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/millisecond.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/minute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/month.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/priorities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/quarter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/second.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/timestamp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/timezone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/units.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/week-calendar-utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/week-year.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/week.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/units/year.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/abs-ceil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/abs-floor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/abs-round.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/compare-arrays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/deprecate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/has-own-prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/hooks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/index-of.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-number.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-object-empty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/is-undefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/keys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/some.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/to-int.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/lib/utils/zero-fill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-dz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-kw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-ly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-ma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-sa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar-tn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/bo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/cv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/cy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/de-at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/de-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/dv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/en-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/en-nz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/eo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/es-do.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/fy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/gd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/gom-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/hy-am.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/jv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/kk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/kn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/lo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/mi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/mr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ms-my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ne.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/nl-be.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/nn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/pa-in.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/se.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/si.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sq.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sr-cyrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/te.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tl-ph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tlh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tzl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tzm-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/tzm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/ur.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/uz-latn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/uz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/x-pseudo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/yo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/zh-hk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/locale/zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/moment/src/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/opener/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/opener/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/opener/opener.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/opener/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/boolean_double.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/boolean_single.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/default_hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/default_singles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/divide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/line_count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/line_count_options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/line_count_wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/nonopt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/reflect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/usage-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/example/xup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/num.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/_.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/_/argv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/_/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/optimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/portfinder/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/portfinder/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/portfinder/lib/portfinder.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/portfinder/lib/portfinder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/portfinder/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/requires-port/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/after/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/middleware/favicon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/middleware/gzip-decode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/middleware/gzip-encode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/simple/spdy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/socketio/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/socketio/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/examples/socketio/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/buffered-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/http-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/request-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/response-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/lib/routing-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/after-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/body-parser-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/double-write-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/ecstatic-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/fixtures/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/fixtures/static/some-file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/header-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/helpers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/helpers/macros.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/prop-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/simple-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/status-code-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/test/streaming-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/union/union.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/lib/url-join.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/url-join/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/example/center.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/example/meat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/test/break.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/test/idleness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/node_modules/wordwrap/test/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eddieTest/package.json" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3030">
+              <caret line="202" column="10" lean-forward="false" selection-start-line="202" selection-start-column="10" selection-end-line="202" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myChart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/myChart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+              <folding>
+                <marker date="1508392942000" expanded="true" signature="3908:3954" ph="..." />
+                <marker date="1508392942000" expanded="true" signature="4089:4117" ph="..." />
+                <marker date="1508392942000" expanded="true" signature="5672:5698" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="EddieTest" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eddieTest/app/index.js" />
+        <option value="$PROJECT_DIR$/eddieTest/index.html" />
+        <option value="$PROJECT_DIR$/eddieTest/app/myChart.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1337" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testpull" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testpull" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5155fc-1206-41a9-b578-b8bd7c88b64e" name="Default" comment="" />
+      <created>1508389314926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508389314926</updated>
+      <workItem from="1508389717391" duration="598000" />
+      <workItem from="1508391100707" duration="34000" />
+      <workItem from="1508391162523" duration="1719000" />
+      <workItem from="1508393475540" duration="443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1337" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1650256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="202" column="10" lean-forward="false" selection-start-line="202" selection-start-column="10" selection-end-line="202" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding>
+            <marker date="1508392942000" expanded="true" signature="3908:3954" ph="..." />
+            <marker date="1508392942000" expanded="true" signature="4089:4117" ph="..." />
+            <marker date="1508392942000" expanded="true" signature="5672:5698" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="202" column="10" lean-forward="false" selection-start-line="202" selection-start-column="10" selection-end-line="202" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/myChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding>
+            <marker date="1508392942000" expanded="true" signature="3908:3954" ph="..." />
+            <marker date="1508392942000" expanded="true" signature="4089:4117" ph="..." />
+            <marker date="1508392942000" expanded="true" signature="5672:5698" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eddieTest/package.json" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
