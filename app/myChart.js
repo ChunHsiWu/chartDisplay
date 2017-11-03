@@ -91,45 +91,46 @@ angular.module("myChart", [])
                         // Return the HTML string here.
                         console.log('chart');
                         console.log(chart);
+                        /*
                         var table = "<table style='table-layout: fixed;border-collapse: collapse;'><tbody>";
                         barChartData.datasets.forEach(function(data){
                             table += "<tr><td style='width:1em; background-color:"+data.backgroundColor+"'"+"></td><td>"+data.label+"</td></tr>"
                         });
                         table += "</tbody></table>";
                         console.log(table);
-                        return  table;
+                        */
+                        result = "<a href='#'><img id='excelDownload' src='../excelDownloadButton.png' style='height: 15px'></a>";
+                        return result;
                     },
                     title: {
                         display: true,
-                        text: 'Bar Chart'
+                        text: scope.title
                     }
                 }
 
             });
-            /*
+
             function getPos(el) {
                 var rect=el.getBoundingClientRect();
                 return {l:rect.left,t:rect.top, r:rect.right, b:rect.bottom};
             }
             var coords = getPos(document.getElementById("canvas"));     //coords of chart
             var legend = document.getElementById("legend");
-            //document.getElementById('legend').style.width="50px";
-            //document.getElementById('legend').style.length="100px";
-            console.log('coords');
-            console.log(coords);
+
             document.getElementById('legend').innerHTML = window.myBar.generateLegend();    // inject a legend
-            document.getElementById('legend').style.top = (coords.t+myBar.chartArea.top).toString()+ "px";
+            document.getElementById('legend').style.top = (coords.t+myBar.chartArea.top-document.getElementById("excelDownload").height-2).toString()+ "px";
             document.getElementById('legend').style.right = (coords.r-myBar.chartArea.right).toString()+ "px";
-            */
+
         }
         return {
             restrict: 'E',
             scope:{
                 type: '=',
-                data:'='
+                data:'=',
+                title:'='
             },
             //templateUrl:'app/pages/barChart.html',
-            template:"<div id='container' style='width: 100%; height:200px;'><canvas id='canvas'></canvas></div>",
+            template:"<div id='container' style='width: 100%; height:200px;'><div id='legend' style='position: absolute'></div><canvas id='canvas'></canvas></div>",
             link: link
         }
     })

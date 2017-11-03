@@ -1,6 +1,7 @@
 angular.module("myApp", ['myChart'])
     .controller('myController', function($scope){
         $scope.type='bar';
+        $scope.title = 'bar char title';
         var color = Chart.helpers.color;
         var chartColors = {
             orange: 'rgb(237, 194,64)',
